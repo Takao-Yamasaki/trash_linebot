@@ -1,5 +1,4 @@
 require_relative 'trash'
-require_relative 'date_helper'
 
 namespace :push_line do 
   desc "LINEBOT：ゴミ出しの通知" 

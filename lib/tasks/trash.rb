@@ -1,3 +1,5 @@
+require_relative 'date_helper'
+
 class TrashDay
   def text
     date = Date.today
